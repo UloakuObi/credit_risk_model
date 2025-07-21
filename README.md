@@ -17,7 +17,7 @@ Many financial institutions rely on credit scoring models to determine the risk 
 
 The interactive frontend is built using **Streamlit**, offering a simple interface for credit officers and loan assessors.
 
----
+
 
 ## Credit Score & Rating System
 
@@ -31,7 +31,7 @@ The interactive frontend is built using **Streamlit**, offering a simple interfa
 
 > These bands are inspired by conventional credit rating systems and serve as a general benchmark.
 
----
+
 
 ## Features
 
@@ -41,7 +41,7 @@ The interactive frontend is built using **Streamlit**, offering a simple interfa
 * Real-time predictions via a **Streamlit web app**
 * Intuitive 2-column layout with input and output separation
 
----
+
 
 ## Tech Stack
 
@@ -50,13 +50,13 @@ The interactive frontend is built using **Streamlit**, offering a simple interfa
 - Scikit-learn
 - Pandas, NumPy
 
----
+
 
 ## App Preview
 
 > *Insert a screenshot or GIF of the app here if available*
 
----
+
 
 ## Getting Started
 
@@ -71,7 +71,7 @@ The interactive frontend is built using **Streamlit**, offering a simple interfa
     streamlit run main.py
     ```
 
----
+
 
 ## Project Structure
 
@@ -87,7 +87,7 @@ credit-risk-model/app
 └── ...
 ```
 
----
+
 
 ## Input Features
 
@@ -106,7 +106,7 @@ Some of the features used by the model:
 * Loan-to-Income Ratio (calculated)
 * Additional engineered/dummy features for prediction
 
----
+
 
 ## Credit Score Calculation Logic
 
@@ -118,7 +118,7 @@ score = 900 - (probability_of_default * 600)
 
 This ensures that lower default probabilities lead to higher credit scores.
 
----
+
 
 ## Future Improvements
 
@@ -128,5 +128,5 @@ This ensures that lower default probabilities lead to higher credit scores.
 * Historical prediction tracking and logs
 * Integration with cloud platforms (e.g., Streamlit Cloud)
 
----
+
 
