@@ -4,7 +4,6 @@
 
 Welcome to **Lauki Finance**, a machine learning-powered application that assesses the creditworthiness of loan applicants. This project uses a **logistic regression model** to predict the **probability of default** and calculate a **credit score** (ranging from 300 to 900). Based on the score, each applicant is assigned a **credit rating**: **Poor**, **Fair**, **Good**, **Very Good**, or **Excellent**.
 
-<br>
 
 ## Project Overview
 
@@ -54,7 +53,7 @@ The interactive frontend is built using **Streamlit**, offering a simple interfa
 
 ## App Preview
 
-> *Insert a screenshot or GIF of the app here if available*
+![App Screenshot]("app\credit_risk_predictor_app.png")
 
 
 
