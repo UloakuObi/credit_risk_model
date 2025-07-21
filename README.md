@@ -49,7 +49,9 @@ The interactive frontend is built using **Streamlit**, offering a simple interfa
 - Scikit-learn
 - Pandas, NumPy
 
-
+## Try The App
+You can access the live Streamlit app here:  
+[https://credit-risk-estimator.streamlit.app](https://credit-risk-estimator.streamlit.app)
 
 ## App Preview
 
