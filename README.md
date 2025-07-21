@@ -55,7 +55,7 @@ You can access the live Streamlit app here:
 
 ## App Preview
 
-![App Screenshot]("app/credit_risk_predictor_app.png")
+![App Screenshot](app/credit_risk_predictor_app.png)
 
 
 
