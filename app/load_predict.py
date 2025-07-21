@@ -5,7 +5,7 @@ import numpy as np
 from sklearn.preprocessing import MinMaxScaler
 
 
-model_path = 'model/credit_risk_model.joblib'
+model_path = 'app/model/credit_risk_model.joblib'
 model_data = joblib.load(model_path)
 model = model_data['model']
 scaler = model_data['scaler']
