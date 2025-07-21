@@ -2,7 +2,7 @@
 
 ### Predict Credit Risk with Logistic Regression
 
-Welcome to **Lauki Finance**, a machine learning-powered application that assesses the creditworthiness of loan applicants. This project uses a **logistic regression model** to predict the **probability of default** and calculate a **credit score** (ranging from 300 to 900). Based on the score, each applicant is assigned a **credit rating**: **Poor**, **Fair**, **Good**, **Very Good**, or **Excellent**.
+This project uses a **logistic regression model** to assess the credit risk of loan applicants. It predict the **probability of default** and calculate a **credit score** (ranging from 300 to 900). Based on the score, each applicant is assigned a **credit rating**: **Poor**, **Fair**, **Good**, **Very Good**, or **Excellent**.
 
 
 ## Project Overview
